@@ -1,3 +1,4 @@
+# I got help from ChatGPT
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QGroupBox, QLabel, QHBoxLayout, \
     QRadioButton, QPushButton, QLineEdit
